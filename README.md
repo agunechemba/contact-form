@@ -1,5 +1,5 @@
 # ✉️ Contact Form with Google Sheets Backend (No Backend Server Needed)
-# 🚨 I used the js and css file here to style and function my contact form on my website (agunechemba@github.io)
+# 🚨 I used the JS (Javascript) and CSS (Cascading Style Sheet) file here to style and function my contact form on my website (agunechemba@github.io)
 
 
 This project shows how to create a simple, secure HTML contact form that submits data directly to a Google Sheet using Google Apps Script – no backend required.
